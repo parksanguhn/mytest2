@@ -12,7 +12,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>sandbox/dbcpTest.jsp</title>
+<title>saandbox/dbcpTest.jsp</title>
 </head>
 <body>
 <h1>dbcp 이용 - 톰캣이 구현한 ConnectionPool 이용</h1>
